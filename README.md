@@ -1,15 +1,19 @@
 # Documentation
 General documentation and tips for the project.
 
+The first edition is based on ESP-01 , use a dht11 to take temperature and humidity ,and mini rele for a led 
+ESP publish a responsive web page for read temp&humi , and control LED 
+
+this version every 5 minuts put the read value on thingspeak
+
 develop by 
 * Mattia Moscheni [https://www.linkedin.com/in/moscheni]
 * Salvatore Laisa [http://www.salvatorelaisa.me/]
 
-### Feature 
-* 
 
 ## Know bug 
 *the developper*
+*the beer* 
 
 ### Change log
 0.1 first working test - **XX-08-2015**
