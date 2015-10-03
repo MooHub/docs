@@ -11,6 +11,8 @@ develop by
 * Salvatore Laisa [http://www.salvatorelaisa.me/]
 
 
+... here some time can find a real project working http://raspberry.moscheni.it/sensor1
+
 ## Know bug 
 *the developper*
 *the beer* 
