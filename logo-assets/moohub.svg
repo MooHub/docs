@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="265px" height="290px" viewBox="0 0 265 290" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Untitled 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="264.842 114.353592 198.896 0 65.863 0 0 114.216535 4.26325641e-14 116.467465 65.863 230.684 198.896 230.684 264.842 116.330408 264.842 114.353592"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="MOOHUB" font-family="PaytoneOne-Regular, Paytone One" font-size="54" font-weight="normal">
+            <tspan x="3.008" y="287" fill="#E26137">MOO</tspan>
+            <tspan x="137.09" y="287" fill="#483758">HUB</tspan>
+        </text>
+        <g id="Group">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-13"></g>
+            <path d="M132.268,119 L198.444,233.626 L198.444,233.649 C178.967,244.897 156.355,251.328 132.222,251.328 C108.089,251.328 85.477,244.897 66,233.649 L66.023,233.626 L132.176,119 L132.268,119" id="Fill-12" fill="#71C3B9" mask="url(#mask-2)"></path>
+            <path d="M66.222,4.023 L132.421,118.718 L132.375,118.811 L0,118.811 C0,118.788 0,118.742 0,118.718 C0,69.669 26.6,26.888 66.199,4 L66.222,4.023" id="Fill-14" fill="#EC982D" mask="url(#mask-2)"></path>
+            <path d="M264.375,119 C264.352,168.026 237.752,210.784 198.176,233.649 L198.176,233.626 L132,119 L264.375,119" id="Fill-15" fill="#2EACB6" mask="url(#mask-2)"></path>
+            <path d="M132.375,119 L66.222,233.626 L66.199,233.649 C26.623,210.784 0.024,168.026 0,119 L132.375,119" id="Fill-16" fill="#E26137" mask="url(#mask-2)"></path>
+            <path d="M198.222,4 C237.822,26.888 264.421,69.669 264.421,118.718 C264.421,118.742 264.421,118.788 264.421,118.811 L132.046,118.811 L132,118.718 L198.222,4.023 L198.222,4" id="Fill-17" fill="#483758" mask="url(#mask-2)"></path>
+            <path d="M132.222,118.42 L66.023,3.725 L66,3.702 C85.477,-7.546 108.089,-14 132.222,-14 C156.355,-14 178.967,-7.546 198.444,3.702 L198.444,3.725 L132.222,118.42" id="Fill-18" fill="#F8C823" mask="url(#mask-2)"></path>
+            <polyline id="Fill-20" fill="#FFFFFE" mask="url(#mask-2)" points="95.968 178.224 60 115.612 95.968 53 167.903 53 203.869 115.612 167.903 178.224 95.968 178.224"></polyline>
+        </g>
+    </g>
+</svg>

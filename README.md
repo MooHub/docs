@@ -1,3 +1,5 @@
+![](./logo-assets/moohub.svg)
+
 # Documentation
 General documentation and tips for the project.
 
