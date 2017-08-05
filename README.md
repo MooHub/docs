@@ -1,4 +1,4 @@
-![](./logo-assets/moohub.svg)
+![](./logo-assets/moohub.png)
 
 # Documentation
 General documentation and tips for the project.
